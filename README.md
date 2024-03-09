@@ -1,7 +1,7 @@
 <!--타이틀 부분-->
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=auto)
 </div>
 
 
