@@ -1,7 +1,7 @@
 <!--타이틀 부분-->
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=auto)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Welcome&fontColor=ffffff&desc=SeongWoo's%20Profile&descAlign=60&descAlignY=65)
 </div>
 
 
